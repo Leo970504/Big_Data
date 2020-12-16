@@ -1,0 +1,15 @@
+count	3
+document	2
+for	2
+hadoop	7
+of	1
+spark	1
+the	5
+example	2
+file	1
+hello	2
+is	2
+program	5
+second	1
+test	1
+word	7

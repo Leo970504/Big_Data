@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff93fff1-9edf-419c-a19d-e136de2209bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jDhnlMm32h4MYGpy26D81pvTcZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff93fff1-9edf-419c-a19d-e136de2209bd" name="Default Changelist" comment="" />
+      <created>1603344738629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603344738629</updated>
+      <workItem from="1603344741751" duration="28000" />
+      <workItem from="1607319447916" duration="3755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="355" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1607319960528">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="570" y="355" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.25.1440.875@0.25.1440.875" timestamp="1607319960528" />
+    <state width="1398" height="128" key="GridCell.Tab.0.bottom" timestamp="1607323374706">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="128" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1607323374706" />
+    <state width="1398" height="128" key="GridCell.Tab.0.center" timestamp="1607323374705">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="128" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1607323374705" />
+    <state width="1398" height="128" key="GridCell.Tab.0.left" timestamp="1607323374705">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="128" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1607323374705" />
+    <state width="1398" height="128" key="GridCell.Tab.0.right" timestamp="1607323374706">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="128" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1607323374706" />
+  </component>
+</project>
